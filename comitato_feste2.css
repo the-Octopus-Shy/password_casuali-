@@ -1,0 +1,11 @@
+.titolo {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;   
+}
+.immagine {
+    margin-left: 100px;
+    margin-right: auto; 
+    border-color: black;      
+    border-width: 10px 10px 10px 10px;
+    border-style: solid;
+} 
